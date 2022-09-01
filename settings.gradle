@@ -1,0 +1,3 @@
+rootProject.name = 'PDF-Document-Service'
+include 'ui-pdf-viewer'
+
